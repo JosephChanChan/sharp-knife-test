@@ -1,0 +1,8 @@
+server:
+  port: 6666
+
+sharp.knife:
+  global:
+    timeoutPerTask: 200
+    timeoutTotal: 10000
+    enableTimeoutTotal: true
